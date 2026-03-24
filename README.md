@@ -1,4 +1,4 @@
-# `genoEsimate`
+# `genoEstimate`
 
 To cite this package, use the following DOI:
 
