@@ -1,11 +1,4 @@
-# `estimatePMR`
-
-To cite this package, use the following DOI:
-
-[![DOI](https://zenodo.org/badge/931773329.svg)](https://zenodo.org/badge/latestdoi/931773329)
-
-
-
+# `genotype_estimate`
 
 # Installation
 
