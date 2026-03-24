@@ -1,5 +1,5 @@
-Package: estimatePMR
-Title: Estimate Parasite Multiplication Rates
+Package: genotype_estimate
+Title: Estimate Difference Parasite Genotype Dyanmics
 Version: 1.0.1
 Authors@R: c(
     person("Lucas A.", "Nell", , "lucnell@gmail.com", role = c("aut", "cre"),
