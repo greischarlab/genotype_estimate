@@ -1,4 +1,4 @@
-# `estimatePMR`
+# `genoEsimate`
 
 To cite this package, use the following DOI:
 
@@ -12,7 +12,7 @@ To cite this package, use the following DOI:
 To install this package:
 
 ```r
-remotes::install_github("greischarlab/estimatePMR")
+remotes::install_github("greischarlab/genotype_estimate")
 ```
 
 
