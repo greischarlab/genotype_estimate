@@ -28,13 +28,13 @@ Suggests:
     mirai
 SystemRequirements: GNU make
 NeedsCompilation: yes
-URL: https://github.com/greischarlab/estimatePMR
-BugReports: https://github.com/greischarlab/estimatePMR/issues
+URL: https://github.com/greischarlab/genotype_estimate
+BugReports: https://github.com/greischarlab/genotype_estimate/issues
 RemoteType: github
 RemoteHost: api.github.com
-RemoteRepo: estimatePMR
+RemoteRepo: genotype_estimate
 RemoteUsername: greischarlab
-GithubRepo: estimatePMR
+GithubRepo: genotype_estimate
 GithubUsername: greischarlab
 VignetteBuilder: quarto
 Roxygen: list(markdown = TRUE)
